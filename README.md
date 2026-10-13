@@ -1,6 +1,10 @@
-# Bible Reading — Support
+# Bible Reading — Support & Privacy Policy
 
 Support for the **Designed to Last Bible Reading** iOS app.
+
+## Privacy Policy
+
+The Bible Reading app collects **no data** — nothing is tracked, logged, or transmitted. No accounts, no analytics, no third-party SDKs. Your reading progress is stored only on your device.
 
 ## Contact
 
